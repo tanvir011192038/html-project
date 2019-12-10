@@ -1,0 +1,53 @@
+    *{
+    margin: 0;
+    padding: 0;
+}
+.social-media>h1{
+    font-style: italic;
+    text-align: center;
+    font-size: 18px;
+}
+.social-media>h3{
+    font-style: italic;
+    text-align: center;
+}
+.Github>h1{
+    font-style: italic;
+    text-align: center;
+}
+.Github>h3{
+    font-style: italic;
+    text-align: center;
+}
+.hobby>h1{
+    font-style: italic;
+    text-align: center;
+}
+.hobby>h3{
+    font-style: italic;
+    text-align: center;
+}
+.Volunteerwork>h1{
+    font-style: italic;
+    text-align: center;
+}
+.Volunteerwork>h3{
+    font-style: italic;
+    text-align: center;
+}
+.Eactivities>h1{
+    font-style: italic;
+    text-align: center;
+}
+.Eactivities>h3{
+    font-style: italic;
+    text-align: center;
+}
+.Mday>h1{
+    font-style: italic;
+    text-align: center;
+}
+.Mday>h3{
+    font-style: italic;
+    text-align: center;
+}
